@@ -1,4 +1,4 @@
-# My Cookie Company Dashboard
+# My Cookie Company Dashboard ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ## Overview
 The **My Cookie Company Dashboard** provides a comprehensive view of the company’s profits across various cookie products and countries. It is designed to help stakeholders visualise key performance metrics and identify trends in sales and profitability.
 
